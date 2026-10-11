@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0204-count-primes) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0202-happy-number) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
