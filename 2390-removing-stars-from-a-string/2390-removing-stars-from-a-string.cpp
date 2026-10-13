@@ -4,12 +4,12 @@ public:
         
         string p = ""; 
 
-        for(int i =0 ;i<s.length();i++){
+        for(char i : s){
             
-            if(s[i]=='*'){
+            if(i=='*'){
                 p.pop_back();
             }else{
-                p.push_back(s[i]);
+                p+=i;
             }
         }
         return p;
