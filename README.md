@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0204-count-primes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
