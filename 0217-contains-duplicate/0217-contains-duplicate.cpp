@@ -5,11 +5,11 @@ public:
         
         for(int i =0;i<nums.size();i++){
 
-            if(m.find(nums[i])!=m.end()){
+            if(m.contains(nums[i])){
                 return true;
             }
 
-            m.insert(nums[i]);
+            m.emplace(nums[i]);
 
 
         }
