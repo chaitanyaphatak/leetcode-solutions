@@ -9,7 +9,7 @@ public:
                 return true;
             }
 
-            m.emplace(nums[i]);
+            m.insert(nums[i]);
 
 
         }
