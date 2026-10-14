@@ -9,7 +9,7 @@ public:
                 return true;
             }
 
-            m.insert(i);
+            m.emplace(i);
 
 
         }
