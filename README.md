@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Stack
 |  |
