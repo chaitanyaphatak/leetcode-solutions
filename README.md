@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
