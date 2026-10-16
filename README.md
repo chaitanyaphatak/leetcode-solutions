@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
