@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
