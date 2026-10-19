@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
