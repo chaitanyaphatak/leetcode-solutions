@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
