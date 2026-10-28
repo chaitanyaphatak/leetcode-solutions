@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
