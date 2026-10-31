@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
