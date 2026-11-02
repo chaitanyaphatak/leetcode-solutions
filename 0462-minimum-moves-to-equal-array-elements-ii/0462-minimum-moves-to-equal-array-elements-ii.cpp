@@ -4,9 +4,8 @@ public:
         int n = nums.size();
         sort(nums.begin(),nums.end());
         int operation = 0;
-        for(int i = 0;i<n/2;i++){
+        for(int i = 0;i<n;i++){
             operation+=abs(nums[i]-nums[n/2]);
-            operation+=(nums[n-i-1]-nums[n/2]);
         }
         return operation;
     }
