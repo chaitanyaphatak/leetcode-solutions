@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
