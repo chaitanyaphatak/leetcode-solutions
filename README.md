@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,4 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
