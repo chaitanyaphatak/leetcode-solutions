@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
