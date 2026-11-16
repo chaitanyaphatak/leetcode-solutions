@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1688-count-of-matches-in-tournament](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Sorting
