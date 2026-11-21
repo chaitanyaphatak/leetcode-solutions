@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2747-count-zero-request-servers](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chaitanyaphatak/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
